@@ -1,23 +1,99 @@
 {
-  "data": [
+  "users": [
    {
-     "title": "Exercise",
-     "imageurl": "https://drive.google.com/uc?id=1nddBEfcncj6S83LymDuq85jA1nxURFX1"
+     "unique_id": "l_1",
+     "name": "Golu",
+     "email": "lakshaymudgal340@gmail.com",
+     "phone": "8814020837",
+     "total_posts": "20",
+     "follower": "2443",
+     "following": "231",
+        "posts":
+            {
+              "post_id": "post_1",
+              "post_url": "url",
+              "post_category": "shayri",
+              "post_like": "23",
+              "post_unlike": "1",
+              "post_dowmload": "23",
+              "post_time": "12:12:1222"
+            }
    },
    {
-     "title": "Yoga",
-     "imageurl": "https://drive.google.com/uc?id=1eUxJCh55vZH095zo_aaQ8bxiVt9NL4MQ"
-   }, 
+     "unique_id": "l_2",
+     "name": "Golu1",
+     "email": "lakshaymudgal340@gmail.com",
+     "phone": "88140120837",
+     "total_posts": "120",
+     "follower": "24413",
+     "following": "2311",
+        "posts":
+            {
+              "post_id": "2",
+              "post_url": "2233",
+              "post_category": "3435",
+              "post_like": "234",
+              "post_unlike": "234",
+              "post_dowmload": "345",
+              "post_time": "3354"
+            }
+   },
    {
-     "title": "Gym",
-     "imageurl": "https://drive.google.com/uc?id=1cPD5XbHzhqFt_FL1M2KlsWMYGpLRKylR"
-   }, 
+     "unique_id": "l_3",
+     "name": "Golu34",
+     "email": "lakshreaymudgal340@gmail.com",
+     "phone": "8814020et837",
+     "total_posts": "20g5",
+     "follower": "244334",
+     "following": "23134",
+        "posts":
+            {
+              "post_id": "3",
+              "post_url": "23",
+              "post_category": "23",
+              "post_like": "34",
+              "post_unlike": "345",
+              "post_dowmload": "345",
+              "post_time": "35"
+            }
+   },
    {
-     "title": "Home",
-     "imageurl": "https://drive.google.com/uc?id=1-FZhSoz9O5F7UoJYFyWzr3Eq5ds1zPSR"
-   }, 
+     "unique_id": "l_4",
+     "name": "Golu",
+     "email": "lakshaymudgal340@gmail.com",
+     "phone": "8814020837",
+     "total_posts": "20",
+     "follower": "2443",
+     "following": "231",
+        "posts":
+            {
+              "post_id": "34",
+              "post_url": "35",
+              "post_category": "23",
+              "post_like": "35",
+              "post_unlike": "45",
+              "post_dowmload": "45",
+              "post_time": "45"
+            }
+   },
    {
-     "title": "Covid-19",
-     "imageurl": "https://drive.google.com/uc?id=19_35OVsQwxQvwlUlCIpyWPGSHcvJlAlg"
-   }]
+     "unique_id": "l_5",
+     "name": "Golu545",
+     "email": "lakshaymudgal340@gmail.com",
+     "phone": "8814020837",
+     "total_posts": "20",
+     "follower": "2443",
+     "following": "231",
+        "posts":
+            {
+              "post_id": "45",
+              "post_url": "45",
+              "post_category": "34",
+              "post_like": "45",
+              "post_unlike": "35",
+              "post_dowmload": "46",
+              "post_time": "35"
+            }
+   }
+  ]
 }
